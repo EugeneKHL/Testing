@@ -9,6 +9,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         File map = new File("C:/Users/Eugene/Downloads/small.xml");
+
         Parser.parse(map);
+        System.out.print("just tryna to figure out");
     }
 }
