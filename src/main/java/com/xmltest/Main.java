@@ -11,6 +11,5 @@ public class Main {
         File map = new File("C:/Users/Eugene/Downloads/small.xml");
 
         Parser.parse(map);
-        System.out.print("just tryna to figure out");
     }
 }
